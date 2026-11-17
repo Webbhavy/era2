@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(site)/layout,_N_T_/(site)/products/layout,_N_T_/(site)/products/[slug]/layout,_N_T_/(site)/products/[slug]/page,_N_T_/products/wpc"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHNpdGUp",
+    "/!KHNpdGUp/products/$d$slug/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 32,
+        "slots": {
+          "children": {
+            "hints": 64,
+            "slots": {
+              "children": {
+                "hints": 96,
+                "slots": {
+                  "children": {
+                    "hints": 160,
+                    "slots": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/affac8962d211bfb093df12f076f529b6ff6d7e08b488e3348d680c8bde208f9/$/products/wpc",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(site)/products/[slug]/page"
+    },
+    "isFallback": false
+  }
+}

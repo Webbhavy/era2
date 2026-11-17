@@ -1,0 +1,11 @@
+:HL["/_next/static/chunks/1z7ny4aj4hqc1.css","style"]
+:HL["/_next/static/media/1cb49a9fe872cb43-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6bafae418e8a1b08-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/76e9fd951b869c7b-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5f006ccf96c15fe-s.p.0a0h245ktd4x0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/logo.png","image"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"wpc","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"products","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":48,"c":"$Q2"}]]
+0:{"b":"cidLxq0IxxylyG_qqWump","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

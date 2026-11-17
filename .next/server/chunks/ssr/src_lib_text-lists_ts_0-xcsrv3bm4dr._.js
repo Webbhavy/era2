@@ -1,0 +1,3 @@
+module.exports=[50109,a=>{"use strict";a.s(["U",0,function(a){let b=a.split("|");if(2===b.length)return[b[0].trim(),b[1].trim()];let c=a.trim().split(/\s+/).filter(Boolean);if(c.length<2)return[c.join(" "),""];let d=Math.ceil(c.length/2);return[c.slice(0,d).join(" "),c.slice(d).join(" ")]},"B",0,a=>a.join("\n"),"e",0,a=>a.map(a=>a.join(" | ")).join("\n")])}];
+
+//# sourceMappingURL=src_lib_text-lists_ts_0-xcsrv3bm4dr._.js.map

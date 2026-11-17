@@ -1,0 +1,3 @@
+module.exports=[22610,a=>{"use strict";var b=a.i(87924);a.s(["ConfirmButton",0,function({children:a,message:c,className:d="a-btn danger sm"}){return(0,b.jsx)("button",{type:"submit",className:d,onClick:a=>{confirm(c)||a.preventDefault()},children:a})}])},5767,a=>{"use strict";var b=a.i(72131);a.s(["f",0,function(a){return c=>{c.preventDefault();let d=new FormData(c.currentTarget);(0,b.startTransition)(()=>a(d))}}])}];
+
+//# sourceMappingURL=src_0qqtov6r_6u_a._.js.map

@@ -1,0 +1,3 @@
+module.exports=[68120,a=>{a.v({className:"CV22ZG_className",variable:"CV22ZG_variable"})},36102,a=>{"use strict";var b=a.i(7997),c=a.i(68120);let d={className:c.default.className,style:{fontFamily:"'Figtree', 'Figtree Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",className:d.variable,suppressHydrationWarning:!0,children:(0,b.jsx)("body",{suppressHydrationWarning:!0,children:a})})},"metadata",0,{title:{default:"Admin",template:"%s · ERA Admin"},robots:{index:!1,follow:!1}}],36102)},44067,function(a){a.n(a.i(36102))}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__0g9c3oyv4ile1._.js.map

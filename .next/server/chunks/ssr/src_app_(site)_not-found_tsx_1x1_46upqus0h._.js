@@ -1,0 +1,3 @@
+module.exports=[85395,a=>{"use strict";var b=a.i(7997),c=a.i(95936),d=a.i(95654);a.s(["default",0,function(){return(0,b.jsxs)(b.Fragment,{children:[(0,b.jsx)(d.f,{title:"Page not found",subtitle:"The page you are looking for has moved or no longer exists.",trail:["404"],label:"Error 404"}),(0,b.jsx)("section",{className:"sec",id:"content",children:(0,b.jsxs)("div",{className:"wrap c btns",children:[(0,b.jsx)(c.default,{className:"btn",href:"/",children:"Back to home"}),(0,b.jsx)(c.default,{className:"lnk",href:"/contact",children:"Contact us"})]})})]})}])},89327,function(a){a.n(a.i(85395))}];
+
+//# sourceMappingURL=src_app_%28site%29_not-found_tsx_1x1_46upqus0h._.js.map

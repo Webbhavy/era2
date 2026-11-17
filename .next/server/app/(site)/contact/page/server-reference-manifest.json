@@ -1,0 +1,15 @@
+{
+  "node": {
+    "6056b03e390e95541d4a58d53ff918027063bf2dca": {
+      "workers": {
+        "app/(site)/contact/page": {
+          "moduleId": 36421,
+          "async": false
+        }
+      },
+      "exportedName": "submitEnquiry",
+      "filename": "src/server/actions/enquiry.ts"
+    }
+  },
+  "edge": {}
+}
